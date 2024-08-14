@@ -7,6 +7,10 @@
 [coverage-image]: https://codecov.io/gh/rusty1s/pytorch_cluster/branch/master/graph/badge.svg
 [coverage-url]: https://codecov.io/github/rusty1s/pytorch_cluster?branch=master
 
+# installation:
+
+pip install git+https://github.com/curtischong/pytorch_cluster.git
+
 # PyTorch Cluster
 
 [![PyPI Version][pypi-image]][pypi-url]
